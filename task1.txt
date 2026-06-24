@@ -1,0 +1,1 @@
+We use git commit to save changes in a local repository and maintain a history of project modifications.
